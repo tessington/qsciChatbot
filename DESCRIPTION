@@ -1,0 +1,19 @@
+Package: qsciChatbot
+Title: A Coding Help Chatbot for Q SCI Coursework
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tim",
+           family = "Essington",
+           role = c("cre"),
+           email = "essing@uw.edu")
+Description: Loads a shiny app that allows users to paste code and ask questions, and get guidance using openAI's chatGPT4o model.
+License: What license is it under?
+Imports: shiny,
+    promises,
+    future,
+    shinyjs,
+    httr,
+    jsonlite
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
