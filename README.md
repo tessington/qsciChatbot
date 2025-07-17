@@ -12,13 +12,14 @@ ecology courses.
 ``` r
 # Install from GitHub
 devtools::install_github("tessington/qsciChatbot")
-
-# load in R
-library(qsciChatbot)
 ```
 
 ## Run the Coding Assistant
 
 ``` r
+# Load library for each session
+library(qsciChatbot)
+
+# To run, use load_bot() in console:
 load_bot()
 ```
