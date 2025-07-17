@@ -9,6 +9,10 @@ ecology courses.
 
 ## Installation
 
-\`\`\`r \# Install from GitHub
-devtools::install_github(“tessington/qsciChatbot”) \# load in R
+``` r
+# Install from GitHub
+devtools::install_github("tessington/qsciChatbot")
+
+# load in R
 library(qsciChatbot)
+```
