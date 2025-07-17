@@ -16,3 +16,9 @@ devtools::install_github("tessington/qsciChatbot")
 # load in R
 library(qsciChatbot)
 ```
+
+## Run the Coding Assistant
+
+``` r
+load_bot()
+```
