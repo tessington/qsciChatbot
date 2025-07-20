@@ -8,8 +8,7 @@ load_bot(
   onStart = NULL,
   options = list(),
   enableBookmarking = NULL,
-  uiPattern = "/",
-  ...
+  uiPattern = "/"
 )
 }
 \arguments{

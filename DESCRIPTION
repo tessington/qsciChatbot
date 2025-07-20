@@ -9,6 +9,7 @@ Authors@R:
 Description: Loads a shiny app that allows users to paste code and ask questions, and get guidance using openAI's chatGPT4o model.
 License: What license is it under?
 Imports: shiny,
+    golem,
     promises,
     future,
     shinyjs,
